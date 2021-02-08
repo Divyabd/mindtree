@@ -7,6 +7,7 @@ public class Sample {
 		
 		System.out.println("This is divya");
 		System.out.println("This is divya");
+		System.out.println("This is divya");
 		
 	}
 
